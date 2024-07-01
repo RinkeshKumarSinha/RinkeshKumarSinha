@@ -7,8 +7,6 @@ here i am
 
 - 🔭 I’m currently working on Machine Learning Model
 - 🌱 I’m currently learning AI and ML
-- 👯 I’m looking to collaborate on NASA
-- 🤔 I’m looking for help with 
 - 💬 Ask me about CS Core
 - 📫 How to reach me: 2105989@kiit.ac.in
 - 😄 Pronouns: Coder
